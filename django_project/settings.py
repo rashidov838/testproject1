@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     "rest_framework",
     "books.apps.BooksConfig",
     "apis.apps.ApisConfig",
-    # "procfile.apps.ProcfileConfig",
 ]
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
